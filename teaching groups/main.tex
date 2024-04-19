@@ -1,0 +1,24 @@
+ % Преамбула
+\documentclass[12pt, oneside, dvipsnames]{extarticle}
+\input{preamble.tex}
+\usepackage{cleveref}
+
+\usepackage[
+backend=biber,
+style=alphabetic,
+sorting=ynt
+]{biblatex}
+\addbibresource{mybib.bib}
+
+\begin{document}
+	
+	\tableofcontents
+	\newpage
+	
+	\section{Введение в теорию групп}
+	\input{files/1}
+
+	\printbibliography
+
+
+\end{document}

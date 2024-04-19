@@ -1,0 +1,57 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{alekseev}{book}{}
+      \name{author}{1}{}{%
+        {{hash=498d685f60d75f5628952c89ba3e78d0}{%
+           family={Б},
+           familyi={Б\bibinitperiod},
+           given={Алексеев\bibnamedelima В.},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {М.: МЦНМО}%
+      }
+      \strng{namehash}{498d685f60d75f5628952c89ba3e78d0}
+      \strng{fullhash}{498d685f60d75f5628952c89ba3e78d0}
+      \strng{bibnamehash}{498d685f60d75f5628952c89ba3e78d0}
+      \strng{authorbibnamehash}{498d685f60d75f5628952c89ba3e78d0}
+      \strng{authornamehash}{498d685f60d75f5628952c89ba3e78d0}
+      \strng{authorfullhash}{498d685f60d75f5628952c89ba3e78d0}
+      \field{labelalpha}{Б01}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Теорема Абеля в задачах и решениях}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://old.mccme.ru/free-books/pdf/alekseev.pdf
+      \endverb
+      \verb{url}
+      \verb https://old.mccme.ru/free-books/pdf/alekseev.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
