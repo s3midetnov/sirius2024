@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  19 APR 2024 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  20 APR 2024 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,7 +7,1180 @@ entering extended mode
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 ! Undefined control sequence.
-l.2 	\subsection
+l.1 	\bf
+        {Общая конва такова:} следуем~\cite{alekseev}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package inputenc Error: Unicode character О (U+041E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{О
+           бщая конва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character б (U+0431)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Об
+             щая конва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character щ (U+0449)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общ
+               ая конва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Обща
+                 я конва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character я (U+044F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая
+                    конва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая к
+                      онва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая ко
+                        нва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая кон
+                          ва такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конв
+                            а такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва
+                               такова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва т
+                                 акова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва та
+                                   кова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва так
+                                     ова:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва тако
+                                       ва:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва таков
+                                         а:} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва такова
+                                           :} следуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва такова:
+                                            } следуем~\cite{alekseev}...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no : in font nullfont!
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва такова:} с
+                                                ледуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 	\bf{Общая конва такова:} сл
+                                                  едуем~\cite{alekseev}...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...Общая конва такова:} сле
+                                                  дуем~\cite{alekseev}, ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...бщая конва такова:} след
+                                                  уем~\cite{alekseev}, д...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...щая конва такова:} следу
+                                                  ем~\cite{alekseev}, до...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ая конва такова:} следуе
+                                                  м~\cite{alekseev}, доб...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...я конва такова:} следуем
+                                                  ~\cite{alekseev}, доба...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no [ in font nullfont!
+\citation{alekseev}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.1 ...акова:} следуем~\cite{alekseev}
+                                                  , добавляя нуж�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `alekseev' on page  undefined on input line 1.
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no , in font nullfont!
+
+! Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ова:} следуем~\cite{alekseev}, д
+                                                  обавляя нужны�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ва:} следуем~\cite{alekseev}, до
+                                                  бавляя нужные ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character б (U+0431)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...а:} следуем~\cite{alekseev}, доб
+                                                  авляя нужные к...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...:} следуем~\cite{alekseev}, доба
+                                                  вляя нужные ко...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... следуем~\cite{alekseev}, добав
+                                                  ляя нужные кон...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ледуем~\cite{alekseev}, добавл
+                                                  яя нужные конк...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character я (U+044F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�едуем~\cite{alekseev}, добавля
+                                                  я нужные конкр...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character я (U+044F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�дуем~\cite{alekseev}, добавляя
+                                                   нужные конкре...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...уем~\cite{alekseev}, добавляя н
+                                                  ужные конкрет�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ем~\cite{alekseev}, добавляя ну
+                                                  жные конкретн�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ж (U+0436)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...м~\cite{alekseev}, добавляя нуж
+                                                  ные конкретно ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...~\cite{alekseev}, добавляя нужн
+                                                  ые конкретно н...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...cite{alekseev}, добавляя нужны
+                                                  е конкретно на...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...te{alekseev}, добавляя нужные
+                                                   конкретно нам...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...alekseev}, добавляя нужные к
+                                                  онкретно нам п...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ekseev}, добавляя нужные ко
+                                                  нкретно нам пр...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...seev}, добавляя нужные кон
+                                                  кретно нам при...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ev}, добавляя нужные конк
+                                                  ретно нам прим...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...}, добавляя нужные конкр
+                                                  етно нам приме...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... добавляя нужные конкре
+                                                  тно нам пример...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�обавляя нужные конкрет
+                                                  но нам примеры...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�бавляя нужные конкретн
+                                                  о нам примеры. ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�авляя нужные конкретно
+                                                   нам примеры. Д...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...вляя нужные конкретно н
+                                                  ам примеры. Де�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ляя нужные конкретно на
+                                                  м примеры. Дел�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...яя нужные конкретно нам
+                                                   примеры. Дела�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� нужные конкретно нам п
+                                                  римеры. Делаем...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...нужные конкретно нам пр
+                                                  имеры. Делаем �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ужные конкретно нам при
+                                                  меры. Делаем м�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...жные конкретно нам прим
+                                                  еры. Делаем мо�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ные конкретно нам приме
+                                                  ры. Делаем мощ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ые конкретно нам пример
+                                                  ы. Делаем мощн�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...е конкретно нам примеры
+                                                  . Делаем мощны�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+! Package inputenc Error: Unicode character Д (U+0414)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�онкретно нам примеры. Д
+                                                  елаем мощный у...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�нкретно нам примеры. Де
+                                                  лаем мощный уп...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�кретно нам примеры. Дел
+                                                  аем мощный упо...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ретно нам примеры. Дела
+                                                  ем мощный упор...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�етно нам примеры. Делае
+                                                  м мощный упор �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�тно нам примеры. Делаем
+                                                   мощный упор в ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...но нам примеры. Делаем м
+                                                  ощный упор в д�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...о нам примеры. Делаем мо
+                                                  щный упор в де�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character щ (U+0449)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... нам примеры. Делаем мощ
+                                                  ный упор в дей�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ам примеры. Делаем мощн
+                                                  ый упор в дейс�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�м примеры. Делаем мощны
+                                                  й упор в дейст�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character й (U+0439)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� примеры. Делаем мощный
+                                                   упор в действие
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�римеры. Делаем мощный у
+                                                  пор в действие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�имеры. Делаем мощный уп
+                                                  ор в действие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�меры. Делаем мощный упо
+                                                  р в действие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�еры. Делаем мощный упор
+                                                   в действие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ры. Делаем мощный упор в
+                                                   действие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�. Делаем мощный упор в д
+                                                  ействие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... Делаем мощный упор в де
+                                                  йствие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character й (U+0439)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�елаем мощный упор в дей
+                                                  ствие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�лаем мощный упор в дейс
+                                                  твие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�аем мощный упор в дейст
+                                                  вие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ем мощный упор в действ
+                                                  ие
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�м мощный упор в действи
+                                                  е
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� мощный упор в действие
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+! Undefined control sequence.
+l.3 	\subsection
                 {Преобразования}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -23,7 +1196,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{П
+l.3 	\subsection{П
                    реобразования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -36,7 +1209,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Пр
+l.3 	\subsection{Пр
                      еобразования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -49,7 +1222,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Пре
+l.3 	\subsection{Пре
                        образования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -62,7 +1235,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Прео
+l.3 	\subsection{Прео
                          бразования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -75,7 +1248,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преоб
+l.3 	\subsection{Преоб
                            разования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -88,7 +1261,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобр
+l.3 	\subsection{Преобр
                              азования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -101,7 +1274,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобра
+l.3 	\subsection{Преобра
                                зования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -114,7 +1287,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобраз
+l.3 	\subsection{Преобраз
                                  ования}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -127,7 +1300,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобразо
+l.3 	\subsection{Преобразо
                                    вания}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -140,7 +1313,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобразов
+l.3 	\subsection{Преобразов
                                      ания}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -153,7 +1326,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобразова
+l.3 	\subsection{Преобразова
                                        ния}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -166,7 +1339,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобразован
+l.3 	\subsection{Преобразован
                                          ия}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -179,7 +1352,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобразовани
+l.3 	\subsection{Преобразовани
                                            я}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -192,7 +1365,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 	\subsection{Преобразования
+l.3 	\subsection{Преобразования
                                              }
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -204,7 +1377,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 	\begin{definition}
+l.5 	\begin{definition}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -218,7 +1391,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		П
+l.6 		П
         усть $M$~--- некоторое множество элемен�...
 
 You may provide a definition with
@@ -232,7 +1405,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пу
+l.6 		Пу
           сть $M$~--- некоторое множество элемен�...
 
 You may provide a definition with
@@ -246,7 +1419,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пус
+l.6 		Пус
             ть $M$~--- некоторое множество элемен�...
 
 You may provide a definition with
@@ -260,7 +1433,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пуст
+l.6 		Пуст
               ь $M$~--- некоторое множество элемен�...
 
 You may provide a definition with
@@ -274,7 +1447,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть
+l.6 		Пусть
                  $M$~--- некоторое множество элемен�...
 
 You may provide a definition with
@@ -287,16 +1460,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $
+l.6 		Пусть $
                   M$~--- некоторое множество элемен�...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
+(Font)              <5> on input line 6.
 Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
@@ -308,7 +1481,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- н
+l.6 		Пусть $M$~--- н
                            екоторое множество элемен�...
 
 You may provide a definition with
@@ -322,7 +1495,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- не
+l.6 		Пусть $M$~--- не
                              которое множество элемен�...
 
 You may provide a definition with
@@ -336,7 +1509,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- нек
+l.6 		Пусть $M$~--- нек
                                оторое множество элемен�...
 
 You may provide a definition with
@@ -350,7 +1523,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- неко
+l.6 		Пусть $M$~--- неко
                                  торое множество элемен�...
 
 You may provide a definition with
@@ -364,7 +1537,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некот
+l.6 		Пусть $M$~--- некот
                                    орое множество элемен�...
 
 You may provide a definition with
@@ -378,7 +1551,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некото
+l.6 		Пусть $M$~--- некото
                                      рое множество элемен�...
 
 You may provide a definition with
@@ -392,7 +1565,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некотор
+l.6 		Пусть $M$~--- некотор
                                        ое множество элемен�...
 
 You may provide a definition with
@@ -406,7 +1579,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некоторо
+l.6 		Пусть $M$~--- некоторо
                                          е множество элемен�...
 
 You may provide a definition with
@@ -420,7 +1593,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некоторое
+l.6 		Пусть $M$~--- некоторое
                                             множество элемен�...
 
 You may provide a definition with
@@ -434,7 +1607,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некоторое м
+l.6 		Пусть $M$~--- некоторое м
                                               ножество элемен�...
 
 You may provide a definition with
@@ -448,7 +1621,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некоторое мн
+l.6 		Пусть $M$~--- некоторое мн
                                                 ожество элемен�...
 
 You may provide a definition with
@@ -462,7 +1635,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 		Пусть $M$~--- некоторое мно
+l.6 		Пусть $M$~--- некоторое мно
                                                   жество элемен�...
 
 You may provide a definition with
@@ -476,7 +1649,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�сть $M$~--- некоторое множ
+l.6 ...�сть $M$~--- некоторое множ
                                                   ество элемент�...
 
 You may provide a definition with
@@ -490,7 +1663,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ть $M$~--- некоторое множе
+l.6 ...�ть $M$~--- некоторое множе
                                                   ство элементо�...
 
 You may provide a definition with
@@ -504,7 +1677,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ь $M$~--- некоторое множес
+l.6 ...�ь $M$~--- некоторое множес
                                                   тво элементов ...
 
 You may provide a definition with
@@ -518,7 +1691,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...� $M$~--- некоторое множест
+l.6 ...� $M$~--- некоторое множест
                                                   во элементов п...
 
 You may provide a definition with
@@ -532,7 +1705,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...$M$~--- некоторое множеств
+l.6 ...$M$~--- некоторое множеств
                                                   о элементов пр...
 
 You may provide a definition with
@@ -546,7 +1719,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...$~--- некоторое множество
+l.6 ...$~--- некоторое множество
                                                    элементов про...
 
 You may provide a definition with
@@ -560,7 +1733,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...-- некоторое множество э
+l.6 ...-- некоторое множество э
                                                   лементов прои�...
 
 You may provide a definition with
@@ -574,7 +1747,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... некоторое множество эл
+l.6 ... некоторое множество эл
                                                   ементов произ�...
 
 You may provide a definition with
@@ -588,7 +1761,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�екоторое множество эле
+l.6 ...�екоторое множество эле
                                                   ментов произв�...
 
 You may provide a definition with
@@ -602,7 +1775,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�которое множество элем
+l.6 ...�которое множество элем
                                                   ентов произво�...
 
 You may provide a definition with
@@ -616,7 +1789,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�оторое множество элеме
+l.6 ...�оторое множество элеме
                                                   нтов произвол�...
 
 You may provide a definition with
@@ -630,7 +1803,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�торое множество элемен
+l.6 ...�торое множество элемен
                                                   тов произволь�...
 
 You may provide a definition with
@@ -644,7 +1817,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�орое множество элемент
+l.6 ...�орое множество элемент
                                                   ов произвольн�...
 
 You may provide a definition with
@@ -658,7 +1831,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�рое множество элементо
+l.6 ...�рое множество элементо
                                                   в произвольно�...
 
 You may provide a definition with
@@ -672,7 +1845,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ое множество элементов
+l.6 ...�ое множество элементов
                                                    произвольной ...
 
 You may provide a definition with
@@ -686,7 +1859,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...е множество элементов п
+l.6 ...е множество элементов п
                                                   роизвольной п�...
 
 You may provide a definition with
@@ -700,7 +1873,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... множество элементов пр
+l.6 ... множество элементов пр
                                                   оизвольной пр�...
 
 You may provide a definition with
@@ -714,7 +1887,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ножество элементов про
+l.6 ...�ножество элементов про
                                                   извольной при�...
 
 You may provide a definition with
@@ -728,7 +1901,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ожество элементов прои
+l.6 ...�ожество элементов прои
                                                   звольной прир�...
 
 You may provide a definition with
@@ -742,7 +1915,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�жество элементов произ
+l.6 ...�жество элементов произ
                                                   вольной приро�...
 
 You may provide a definition with
@@ -756,7 +1929,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ество элементов произв
+l.6 ...�ество элементов произв
                                                   ольной природ�...
 
 You may provide a definition with
@@ -770,7 +1943,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ство элементов произво
+l.6 ...�ство элементов произво
                                                   льной природы....
 
 You may provide a definition with
@@ -784,7 +1957,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�тво элементов произвол
+l.6 ...�тво элементов произвол
                                                   ьной природы. �...
 
 You may provide a definition with
@@ -798,7 +1971,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�во элементов произволь
+l.6 ...�во элементов произволь
                                                   ной природы. Е�...
 
 You may provide a definition with
@@ -812,7 +1985,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�о элементов произвольн
+l.6 ...�о элементов произвольн
                                                   ой природы. Ес�...
 
 You may provide a definition with
@@ -826,7 +1999,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...� элементов произвольно
+l.6 ...� элементов произвольно
                                                   й природы. Есл�...
 
 You may provide a definition with
@@ -840,7 +2013,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...элементов произвольной
+l.6 ...элементов произвольной
                                                    природы. Если ...
 
 You may provide a definition with
@@ -854,7 +2027,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ементов произвольной п
+l.6 ...�ементов произвольной п
                                                   рироды. Если к�...
 
 You may provide a definition with
@@ -868,7 +2041,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ментов произвольной пр
+l.6 ...�ментов произвольной пр
                                                   ироды. Если ка�...
 
 You may provide a definition with
@@ -882,7 +2055,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ентов произвольной при
+l.6 ...�ентов произвольной при
                                                   роды. Если каж�...
 
 You may provide a definition with
@@ -896,7 +2069,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�нтов произвольной прир
+l.6 ...�нтов произвольной прир
                                                   оды. Если кажд�...
 
 You may provide a definition with
@@ -910,7 +2083,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�тов произвольной приро
+l.6 ...�тов произвольной приро
                                                   ды. Если каждо�...
 
 You may provide a definition with
@@ -924,7 +2097,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ов произвольной природ
+l.6 ...�ов произвольной природ
                                                   ы. Если каждой ...
 
 You may provide a definition with
@@ -938,7 +2111,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�в произвольной природы
+l.6 ...�в произвольной природы
                                                   . Если каждой у...
 
 You may provide a definition with
@@ -953,7 +2126,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...произвольной природы. Е
+l.6 ...произвольной природы. Е
                                                   сли каждой упо...
 
 You may provide a definition with
@@ -967,7 +2140,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...роизвольной природы. Ес
+l.6 ...роизвольной природы. Ес
                                                   ли каждой упор...
 
 You may provide a definition with
@@ -981,7 +2154,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...оизвольной природы. Есл
+l.6 ...оизвольной природы. Есл
                                                   и каждой упоря...
 
 You may provide a definition with
@@ -995,7 +2168,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...извольной природы. Если
+l.6 ...извольной природы. Если
                                                    каждой упоряд...
 
 You may provide a definition with
@@ -1009,7 +2182,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�вольной природы. Если к
+l.6 ...�вольной природы. Если к
                                                   аждой упорядо�...
 
 You may provide a definition with
@@ -1023,7 +2196,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ольной природы. Если ка
+l.6 ...�ольной природы. Если ка
                                                   ждой упорядоч�...
 
 You may provide a definition with
@@ -1037,7 +2210,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�льной природы. Если каж
+l.6 ...�льной природы. Если каж
                                                   дой упорядоче�...
 
 You may provide a definition with
@@ -1051,7 +2224,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ьной природы. Если кажд
+l.6 ...�ьной природы. Если кажд
                                                   ой упорядочен�...
 
 You may provide a definition with
@@ -1065,7 +2238,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ной природы. Если каждо
+l.6 ...�ной природы. Если каждо
                                                   й упорядоченн�...
 
 You may provide a definition with
@@ -1079,7 +2252,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ой природы. Если каждой
+l.6 ...�ой природы. Если каждой
                                                    упорядоченно�...
 
 You may provide a definition with
@@ -1093,7 +2266,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...й природы. Если каждой у
+l.6 ...й природы. Если каждой у
                                                   порядоченной �...
 
 You may provide a definition with
@@ -1107,7 +2280,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... природы. Если каждой уп
+l.6 ... природы. Если каждой уп
                                                   орядоченной п�...
 
 You may provide a definition with
@@ -1121,7 +2294,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�рироды. Если каждой упо
+l.6 ...�рироды. Если каждой упо
                                                   рядоченной па�...
 
 You may provide a definition with
@@ -1135,7 +2308,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ироды. Если каждой упор
+l.6 ...�ироды. Если каждой упор
                                                   ядоченной пар�...
 
 You may provide a definition with
@@ -1149,7 +2322,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�роды. Если каждой упоря
+l.6 ...�роды. Если каждой упоря
                                                   доченной паре ...
 
 You may provide a definition with
@@ -1163,7 +2336,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�оды. Если каждой упоряд
+l.6 ...�оды. Если каждой упоряд
                                                   оченной паре э...
 
 You may provide a definition with
@@ -1177,7 +2350,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ды. Если каждой упорядо
+l.6 ...�ды. Если каждой упорядо
                                                   ченной паре эл...
 
 You may provide a definition with
@@ -1191,7 +2364,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ы. Если каждой упорядоч
+l.6 ...�ы. Если каждой упорядоч
                                                   енной паре эле...
 
 You may provide a definition with
@@ -1205,7 +2378,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�. Если каждой упорядоче
+l.6 ...�. Если каждой упорядоче
                                                   нной паре элем...
 
 You may provide a definition with
@@ -1219,7 +2392,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... Если каждой упорядочен
+l.6 ... Если каждой упорядочен
                                                   ной паре элеме...
 
 You may provide a definition with
@@ -1233,7 +2406,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�сли каждой упорядоченн
+l.6 ...�сли каждой упорядоченн
                                                   ой паре элемен...
 
 You may provide a definition with
@@ -1247,7 +2420,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ли каждой упорядоченно
+l.6 ...�ли каждой упорядоченно
                                                   й паре элемент...
 
 You may provide a definition with
@@ -1261,7 +2434,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�и каждой упорядоченной
+l.6 ...�и каждой упорядоченной
                                                    паре элементо...
 
 You may provide a definition with
@@ -1275,7 +2448,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... каждой упорядоченной п
+l.6 ... каждой упорядоченной п
                                                   аре элементов ...
 
 You may provide a definition with
@@ -1289,7 +2462,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�аждой упорядоченной па
+l.6 ...�аждой упорядоченной па
                                                   ре элементов и...
 
 You may provide a definition with
@@ -1303,7 +2476,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�ждой упорядоченной пар
+l.6 ...�ждой упорядоченной пар
                                                   е элементов из...
 
 You may provide a definition with
@@ -1317,7 +2490,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�дой упорядоченной паре
+l.6 ...�дой упорядоченной паре
                                                    элементов из $...
 
 You may provide a definition with
@@ -1331,7 +2504,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...ой упорядоченной паре э
+l.6 ...ой упорядоченной паре э
                                                   лементов из $M$ ...
 
 You may provide a definition with
@@ -1345,7 +2518,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...й упорядоченной паре эл
+l.6 ...й упорядоченной паре эл
                                                   ементов из $M$ п...
 
 You may provide a definition with
@@ -1359,7 +2532,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... упорядоченной паре эле
+l.6 ... упорядоченной паре эле
                                                   ментов из $M$ по...
 
 You may provide a definition with
@@ -1373,7 +2546,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�порядоченной паре элем
+l.6 ...�порядоченной паре элем
                                                   ентов из $M$ пос...
 
 You may provide a definition with
@@ -1387,16 +2560,16 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...�орядоченной паре элеме
+l.6 ...�орядоченной паре элеме
                                                   нтов из $M$ пост...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 45 strings out of 480608
- 720 string characters out of 5903630
+ 51 strings out of 480608
+ 760 string characters out of 5903630
  239610 words of memory out of 5000000
- 16037 multiletter control sequences out of 15000+600000
- 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 16042 multiletter control sequences out of 15000+600000
+ 532646 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,1n,15p,460b,63s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 18i,2n,23p,460b,92s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
