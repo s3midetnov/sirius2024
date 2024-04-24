@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  20 APR 2024 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  20 APR 2024 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1736,7 +1736,13 @@ LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 31.
- [2] [3])
+ [2] [3]
+Overfull \hbox (33.53178pt too wide) in paragraph at lines 141--142
+[]\T2A/LinuxLibertineT-TLF/m/n/12 Всј еще дей-ствия. Боль-ше при-ме-ров и какие
+-то со-дер-жа-тель-ные фак-ты про ор-би-ты/стабилизаторы. 
+ []
+
+)
 LaTeX Font Info:    Trying to load font information for T2A+LinuxLibertineMonoT
 -TLF on input line 21.
 LaTeX Font Info:    No file T2ALinuxLibertineMonoT-TLF.fd. on input line 21.
@@ -1763,8 +1769,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 24.
  ) 
 Here is how much of TeX's memory you used:
- 47357 strings out of 480608
- 1051186 string characters out of 5903630
+ 47371 strings out of 480608
+ 1051284 string characters out of 5903630
  1846797 words of memory out of 5000000
  62432 multiletter control sequences out of 15000+600000
  556330 words of font info for 60 fonts, out of 8000000 for 9000
@@ -1784,10 +1790,10 @@ pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
 usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (4 pages, 312366 bytes).
+Output written on main.pdf (4 pages, 315133 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
