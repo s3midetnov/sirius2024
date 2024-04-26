@@ -7,4 +7,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Группы}{3}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Дальнейший план того, что я не написал еще}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}Группа перестановок}{4}{subsection.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4}Циклическая группа}{4}{subsection.1.4}%
