@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  29 APR 2024 21:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  29 APR 2024 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1739,7 +1739,7 @@ LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 31.
  [2]) (./files/2.tex [3] [4]
 ! Undefined control sequence.
-l.129 ...{ \varphi(g) \ \vert\  g \in G \} \susbet
+l.154 ...{ \varphi(g) \ \vert\  g \in G \} \susbet
                                                    G
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1775,8 +1775,8 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 92DD7DA41C1CF2D676A9B32D13AE9F86;1442
-(rerunfilecheck)             After:  111EB0766A6CD0B345AEC80C0E7693CE;1902.
+(rerunfilecheck)             Before: F876E00F8B257885AC0CDE3A6DE36A34;1564
+(rerunfilecheck)             After:  6425D71D6D28BCD9CDBB2216E87CBFB5;1904.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1786,13 +1786,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 47407 strings out of 480608
- 1051713 string characters out of 5903630
- 1846860 words of memory out of 5000000
- 62443 multiletter control sequences out of 15000+600000
+ 47410 strings out of 480608
+ 1051742 string characters out of 5903630
+ 1847860 words of memory out of 5000000
+ 62444 multiletter control sequences out of 15000+600000
  556330 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,11n,138p,935b,1981s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 82i,12n,138p,935b,1985s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a2.enc}{/
@@ -1812,10 +1812,10 @@ ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loca
 l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (6 pages, 365907 bytes).
+Output written on main.pdf (6 pages, 368466 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 72 named destinations out of 1000 (max. 500000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 74 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
