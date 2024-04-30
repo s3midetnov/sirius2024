@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  29 APR 2024 23:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  30 APR 2024 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1395,15 +1395,15 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(71.13188pt, 717.00946pt, 56.9055pt)
+* h-part:(L,W,R)=(14.22636pt, 569.05515pt, 14.22636pt)
+* v-part:(T,H,B)=(42.67912pt, 773.91498pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=717.00946pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-40.63809pt
+* \textwidth=569.05515pt
+* \textheight=773.91498pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-69.09085pt
 * \headheight=17.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1507,7 +1507,7 @@ File: pic/pic_2.pdf Graphic file (type pdf)
 Package pdftex.def Info: pic/pic_2.pdf  used on input line 40.
 (pdftex.def)             Requested size: 108.405pt x 65.28543pt.
 
-Overfull \hbox (80.11526pt too wide) in paragraph at lines 37--42
+Overfull \hbox (51.6625pt too wide) in paragraph at lines 37--42
  []$ 
  []
 
@@ -1520,7 +1520,7 @@ File: pic/pic_2.pdf Graphic file (type pdf)
 Package pdftex.def Info: pic/pic_2.pdf  used on input line 74.
 (pdftex.def)             Requested size: 108.405pt x 65.28543pt.
 
-Overfull \hbox (80.11526pt too wide) in paragraph at lines 71--76
+Overfull \hbox (51.6625pt too wide) in paragraph at lines 71--76
  []$ 
  []
 
@@ -1543,10 +1543,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 38650 strings out of 480608
- 874554 string characters out of 5903630
- 1235083 words of memory out of 5000000
- 53839 multiletter control sequences out of 15000+600000
+ 38651 strings out of 480608
+ 874556 string characters out of 5903630
+ 1235090 words of memory out of 5000000
+ 53840 multiletter control sequences out of 15000+600000
  551459 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,6n,138p,737b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1562,7 +1562,7 @@ i10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on ser1mak.pdf (1 page, 289527 bytes).
+Output written on ser1mak.pdf (1 page, 289816 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream

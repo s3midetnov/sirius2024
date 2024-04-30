@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  29 APR 2024 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  30 APR 2024 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1223,7 +1223,23 @@ File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowlength=\dimen321
 \pgfarrowwidth=\dimen322
 \pgfarrowlinewidth=\dimen323
-))) (./ser1.aux
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen324
+\WF@size=\dimen325
+\c@WF@wrappedlines=\count327
+\WF@box=\box66
+\WF@everypar=\toks49
+Package: wrapfig 2003/01/31  v 3.6
+) (./ser1.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
 2.
 
@@ -1232,28 +1248,28 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `ser1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
-on input line 4.
+on input line 6.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.f
 d
@@ -1261,20 +1277,20 @@ File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
 nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 4.
+(Font)              scaled to size 12.0pt on input line 6.
  (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count327
-\scratchdimen=\dimen324
-\scratchbox=\box66
-\nofMPsegments=\count328
-\nofMParguments=\count329
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count330
-\MPscratchDim=\dimen325
-\MPnumerator=\count331
-\makeMPintoPDFobject=\count332
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count328
+\scratchdimen=\dimen326
+\scratchbox=\box67
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen327
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks51
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1285,7 +1301,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for T2A+LinuxLibertineT-TLF
- on input line 4.
+ on input line 6.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/libertinegc/T2ALinuxLibertineT-TL
 F.fd
@@ -1293,20 +1309,13 @@ File: T2ALinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
 r Libertine T2A
 )
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 4.
-\c@mv@tabular=\count333
-\c@mv@boldtabular=\count334
-\AtBeginShipoutBox=\box67
- (/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
+(Font)              scaled to size 12.0pt on input line 6.
+\c@mv@tabular=\count334
+\c@mv@boldtabular=\count335
+\AtBeginShipoutBox=\box68
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -1343,7 +1352,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 4.
+Package hyperref Info: Link coloring OFF on input line 6.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1354,11 +1363,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count335
+\c@section@level=\count336
 )
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
  (./ser1.out) (./ser1.out)
 \@outlinefile=\write5
 \openout5 = `ser1.out'.
@@ -1368,80 +1377,89 @@ Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
 
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 6.
+(Font)              scaled to size 12.0pt on input line 8.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 8.
+(Font)              scaled to size 10.95pt on input line 10.
 LaTeX Font Info:    Trying to load font information for OML+LinuxLibertineT-TLF
- on input line 8.
-LaTeX Font Info:    No file OMLLinuxLibertineT-TLF.fd. on input line 8.
+ on input line 10.
+LaTeX Font Info:    No file OMLLinuxLibertineT-TLF.fd. on input line 10.
 
 LaTeX Font Warning: Font shape `OML/LinuxLibertineT-TLF/m/up' undefined
-(Font)              using `OML/cmm/m/it' instead on input line 8.
+(Font)              using `OML/cmm/m/it' instead on input line 10.
 
 LaTeX Font Info:    Trying to load font information for OMS+LinuxLibertineT-TLF
- on input line 8.
-LaTeX Font Info:    No file OMSLinuxLibertineT-TLF.fd. on input line 8.
+ on input line 10.
+LaTeX Font Info:    No file OMSLinuxLibertineT-TLF.fd. on input line 10.
 
 LaTeX Font Warning: Font shape `OMS/LinuxLibertineT-TLF/m/up' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 8.
+(Font)              using `OMS/cmsy/m/n' instead on input line 10.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for PD1+LinuxLibertineT-TLF
- on input line 8.
-LaTeX Font Info:    No file PD1LinuxLibertineT-TLF.fd. on input line 8.
+ on input line 10.
+LaTeX Font Info:    No file PD1LinuxLibertineT-TLF.fd. on input line 10.
 
 
 LaTeX Font Warning: Font shape `PD1/LinuxLibertineT-TLF/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 8.
+(Font)              using `PD1/pdf/m/n' instead on input line 10.
 
 LaTeX Font Info:    Trying to load font information for PU+LinuxLibertineT-TLF 
-on input line 8.
-LaTeX Font Info:    No file PULinuxLibertineT-TLF.fd. on input line 8.
+on input line 10.
+LaTeX Font Info:    No file PULinuxLibertineT-TLF.fd. on input line 10.
 
 LaTeX Font Warning: Font shape `PU/LinuxLibertineT-TLF/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 8.
+(Font)              using `PU/pdf/m/n' instead on input line 10.
 
-LaTeX Font Info:    Trying to load font information for U+esint on input line 8
-.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 1
+0.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 20.
-LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
-LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 22.
+<print/pic/pic_1.pdf, id=7, 109.09056pt x 70.01558pt>
+File: print/pic/pic_1.pdf Graphic file (type pdf)
+<use print/pic/pic_1.pdf>
+Package pdftex.def Info: print/pic/pic_1.pdf  used on input line 33.
+(pdftex.def)             Requested size: 108.405pt x 69.57736pt.
+<print/pic/pic_2.pdf, id=8, 71.53224pt x 43.07895pt>
+File: print/pic/pic_2.pdf Graphic file (type pdf)
+<use print/pic/pic_2.pdf>
+Package pdftex.def Info: print/pic/pic_2.pdf  used on input line 35.
+(pdftex.def)             Requested size: 108.405pt x 65.28543pt.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./print
+/pic/pic_1.pdf> <./print/pic/pic_2.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (./ser1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 38.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 Package rerunfilecheck Info: File `ser1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 38.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 38464 strings out of 480608
- 871791 string characters out of 5903630
- 1213136 words of memory out of 5000000
- 53661 multiletter control sequences out of 15000+600000
- 555650 words of font info for 64 fonts, out of 8000000 for 9000
+ 38530 strings out of 480608
+ 872769 string characters out of 5903630
+ 1214136 words of memory out of 5000000
+ 53720 multiletter control sequences out of 15000+600000
+ 552490 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,6n,138p,740b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a2.enc}
@@ -1452,14 +1470,15 @@ sr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a1.enc}</usr
 pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLiberti
 neTI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on ser1.pdf (1 page, 284173 bytes).
+0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
+pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
+usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on ser1.pdf (1 page, 295711 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

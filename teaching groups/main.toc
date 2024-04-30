@@ -11,4 +11,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.4}Гомоморфизм, изоморфизм}{5}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5}Дальнейший план того, что я не написал еще}{5}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.5}Действие группы на множестве}{5}{subsection.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6}Дальнейший план того, что я не написал еще}{6}{subsection.1.6}%
