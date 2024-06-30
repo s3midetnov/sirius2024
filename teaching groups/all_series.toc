@@ -1,0 +1,9 @@
+\babel@toc {russian}{}
+\contentsline {subsection}{\numberline {}Серия 1. Групповая практика. }{1}{section*.3}%
+\contentsline {subsection}{\numberline {}Серия 2. Нормальное завтра.}{2}{section*.4}%
+\contentsline {subsection}{\numberline {}Действию время, а потехе час. }{3}{section*.5}%
+\contentsline {subsection}{\numberline {}Серия 4. С приложениями теории групп.}{4}{section*.6}%
+\contentsline {subsection}{\numberline {}Серия 5. А теперь к делу. }{5}{section*.7}%
+\contentsline {subsection}{\numberline {}Серия 6. Разгрузочное. }{6}{section*.8}%
+\contentsline {subsection}{\numberline {}Серия 7. Папа Карло тоже действовал на дереве\ldots }{7}{section*.9}%
+\contentsline {subsection}{\numberline {}Серия 8. Растём над собой\ldots }{7}{section*.9}%

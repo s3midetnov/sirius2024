@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  30 APR 2024 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.10)  7 MAY 2024 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -676,19 +676,6 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen194
 \Gm@dimlist=\toks32
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip68
-\f@nch@O@elh=\skip69
-\f@nch@O@erh=\skip70
-\f@nch@O@olh=\skip71
-\f@nch@O@orh=\skip72
-\f@nch@O@elf=\skip73
-\f@nch@O@erf=\skip74
-\f@nch@O@olf=\skip75
-\f@nch@O@orf=\skip76
-)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
@@ -803,7 +790,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip77
+\Hy@SectionHShift=\skip68
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 189.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/esint/esint.sty
@@ -1320,14 +1307,14 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@parenlevel@foot=\count368
 \blx@sectionciteorder@0=\count369
 \blx@entrysetcounter=\count370
-\labelnumberwidth=\skip78
-\labelalphawidth=\skip79
-\biblabelsep=\skip80
-\bibitemsep=\skip81
-\bibnamesep=\skip82
-\bibinitsep=\skip83
-\bibparsep=\skip84
-\bibhang=\skip85
+\labelnumberwidth=\skip69
+\labelalphawidth=\skip70
+\biblabelsep=\skip71
+\bibitemsep=\skip72
+\bibnamesep=\skip73
+\bibinitsep=\skip74
+\bibparsep=\skip75
+\bibhang=\skip76
 \blx@bcfin=\read4
 \blx@bcfout=\write5
 \blx@langwohyphens=\language86
@@ -1412,20 +1399,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count439
 \c@pageref=\count440
 \c@savedpageref=\count441
-\shorthandwidth=\skip86
-\shortjournalwidth=\skip87
-\shortserieswidth=\skip88
-\shorttitlewidth=\skip89
-\shortauthorwidth=\skip90
-\shorteditorwidth=\skip91
-\locallabelnumberwidth=\skip92
-\locallabelalphawidth=\skip93
-\localshorthandwidth=\skip94
-\localshortjournalwidth=\skip95
-\localshortserieswidth=\skip96
-\localshorttitlewidth=\skip97
-\localshortauthorwidth=\skip98
-\localshorteditorwidth=\skip99
+\shorthandwidth=\skip77
+\shortjournalwidth=\skip78
+\shortserieswidth=\skip79
+\shorttitlewidth=\skip80
+\shortauthorwidth=\skip81
+\shorteditorwidth=\skip82
+\locallabelnumberwidth=\skip83
+\locallabelalphawidth=\skip84
+\localshorthandwidth=\skip85
+\localshortjournalwidth=\skip86
+\localshortserieswidth=\skip87
+\localshorttitlewidth=\skip88
+\localshortauthorwidth=\skip89
+\localshorteditorwidth=\skip90
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1718,9 +1705,10 @@ File: uesint.fd
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1
 
-] (./files/1.tex
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./file
+s/1.tex
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 3.
 LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/b/n' will be
@@ -1770,18 +1758,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 47434 strings out of 480608
- 1051927 string characters out of 5903630
- 1847912 words of memory out of 5000000
- 62454 multiletter control sequences out of 15000+600000
+ 47302 strings out of 480608
+ 1050351 string characters out of 5903630
+ 1845859 words of memory out of 5000000
+ 62326 multiletter control sequences out of 15000+600000
  556330 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,12n,138p,935b,2089s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 82i,8n,138p,935b,1820s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a2.enc}{/
-usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a1.enc}{/us
-r/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a.enc}</usr/l
+usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a.enc}{/usr
+/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a1.enc}</usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></u
 sr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pf
 b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertine
@@ -1796,7 +1784,7 @@ ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loca
 l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (7 pages, 375275 bytes).
+Output written on main.pdf (7 pages, 374879 bytes).
 PDF statistics:
  239 PDF objects out of 1000 (max. 8388607)
  213 compressed objects within 3 object streams

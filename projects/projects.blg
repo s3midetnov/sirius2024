@@ -1,0 +1,13 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'projects.blg'
+[41] biber-darwin:322> INFO - === Tue May  7, 2024, 21:49:37
+[50] Biber.pm:415> INFO - Reading 'projects.bcf'
+[97] Biber.pm:943> INFO - Found 5 citekeys in bib section 0
+[105] Biber.pm:4256> INFO - Processing section 0
+[106] Utils.pm:75> INFO - Globbing data source 'mybib.bib'
+[106] Utils.pm:91> INFO - Globbed data source 'mybib.bib' to mybib.bib
+[112] Biber.pm:4455> INFO - Looking for bibtex format file 'mybib.bib' for section 0
+[112] bibtex.pm:1653> INFO - LaTeX decoding ...
+[116] bibtex.pm:1471> INFO - Found BibTeX data source 'mybib.bib'
+[137] Utils.pm:320> ERROR - BibTeX subsystem: /var/folders/xb/2875kd8n2813ql5msbc9c85w0000gn/T/biber_tmp_GKLl/mybib.bib_19486.utf8, line 21, syntax error: found "ÐÐÐÐ", expected end of entry ("}" or ")") (skipping to next "@")
+[137] Biber.pm:132> INFO - ERRORS: 1

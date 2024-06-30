@@ -1,0 +1,8 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {}Стабилизация лучей и параболические подгруппы}{1}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {}О модификации групп}{2}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {}Геометрический проект}{2}{section*.6}%
